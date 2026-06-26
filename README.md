@@ -39,7 +39,7 @@ Building systems that operate at the intersection of hardware, firmware, and int
 
 ## Currently
 
-- 2nd year EIE @ VIT Vellore
+- 3rd year EIE @ VIT Vellore
 - Freelancing — building websites for local businesses
 - Working on embedded and CV projects
 - Long-term target: CERN Summer Student Programme
