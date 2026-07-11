@@ -5,11 +5,11 @@
 
 ### About Me
 
-- 🔭 3rd year B.Tech Electronics & Instrumentation Engineering, VIT Vellore (SELECT Dept)
-- 🔬 Recently completed a research internship at IIT Kharagpur — 2D nanomaterial-based electrochemical sensors for pesticide detection
-- 🎯 Working toward CERN Summer Student Programme, with openlab as a secondary target
-- 🌱 Interests: Astrophysics, Detector Physics, Computer Vision, Embedded Systems
-- ⚡ Fun fact: I'm also learning ukulele and play snooker in my downtime
+- 3rd year B.Tech Electronics & Instrumentation Engineering, VIT Vellore (SELECT Dept)
+- Recently completed a research internship at IIT Kharagpur — 2D nanomaterial-based electrochemical sensors for pesticide detection
+- Working toward CERN Summer Student Programme, with openlab as a secondary target
+- Interests: Astrophysics, Detector Physics, Computer Vision, Embedded Systems
+- Fun fact: I'm also learning ukulele and play snooker in my downtime
 
 <br>
 
