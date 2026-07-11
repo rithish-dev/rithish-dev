@@ -18,7 +18,7 @@ Hobbies: Badminton, Snooker, Ukulele, Poetry
 Currently: Research @ IIT Kharagpur (2D Nanomaterial Sensors)
 Goal: CERN Summer Student Programme 2027
 
-Contact.LinkedIn: linkedin.com/in/rithish-dev
+Contact.LinkedIn: linkedin.com/in/krithish-embedded5
 Contact.GitHub: github.com/rithish-dev
 ```
 
